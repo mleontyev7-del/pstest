@@ -1,0 +1,2 @@
+ Create a New Repository (Repo for short):
+By now, you should’ve created a GitHub account and have Git installed. If you haven’t done that, then head over here. Once you’re done, head over to the Repositories section and click on “New”.
